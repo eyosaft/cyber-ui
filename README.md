@@ -11,7 +11,7 @@
 ## Syntax highlighting
 
 Here is an example of a plugin to highlight code:
-	---
+---
 
 ```js
 import React from 'react'

@@ -13,8 +13,4 @@
 Here is an example of a plugin to highlight code:
 [`rehype-highlight`](https://github.com/rehypejs/rehype-highlight).
 
-\`\`\`js
-function a(){
-	console.log("a");
-}
-\`\`\`
+> eyosaft

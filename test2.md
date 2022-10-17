@@ -1,4 +1,4 @@
-![](RackMultipart20221017-1-q0so23_html_155fddaaaae339b5.png) ![alt text](https://github.com/eyosaft/cyber-ui/blob/main/ICSIS_back.jpg?raw=true) ![Shape1](RackMultipart20221017-1-q0so23_html_7c28f71382690a71.gif)
+![](RackMultipart20221017-1-q0so23_html_155fddaaaae339b5.png) ![alt text](https://github.com/eyosaft/cyber-ui/blob/main/.jpg?raw=true) ![Shape1](RackMultipart20221017-1-q0so23_html_7c28f71382690a71.gif)
 
 Employee Software Manual for EATH
 

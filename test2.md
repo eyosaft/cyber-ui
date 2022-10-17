@@ -1,4 +1,4 @@
-![](RackMultipart20221017-1-q0so23_html_155fddaaaae339b5.png) ![Shape2](RackMultipart20221017-1-q0so23_html_256302229cc90e35.gif) ![Shape1](RackMultipart20221017-1-q0so23_html_7c28f71382690a71.gif)
+![](RackMultipart20221017-1-q0so23_html_155fddaaaae339b5.png) ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true) ![Shape1](RackMultipart20221017-1-q0so23_html_7c28f71382690a71.gif)
 
 Employee Software Manual for EATH
 

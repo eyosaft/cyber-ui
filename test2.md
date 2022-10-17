@@ -46,7 +46,7 @@ The manual can only provide with the guidelines and is intended to be used as su
 
 After entering the correct Username and Password the following window will appear, this is the main screen for HRMS system navigation.
 
-![](https://github.com/eyosaft/cyber-ui/blob/main/ICSIS_back.jpg?raw=true)
+![](https://github.com/eyosaft/cyber-ui/blob/main/hrms.png?raw=true)
 
 The main modules of the ES (Employee Software and Payroll) system are listed on the left side,
 
